@@ -1,12 +1,17 @@
-# Happy Skills
-
-[中文](./README.md) | **English**
-
 <p align="center">
   <img src="./happy-skills.png" alt="Happy Skills" width="600" />
 </p>
 
-A collection of Skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that cover the full development lifecycle — from requirements to shipped code. Describe what you need in plain language, and AI handles exploration, design, implementation, testing, and delivery.
+<p align="center">
+  <a href="./README.md">中文</a> | <strong>English</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/skills"><img src="https://img.shields.io/badge/skills_CLI-required-blue" alt="skills CLI" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" /></a>
+</p>
+
+---
 
 ## Installation
 
